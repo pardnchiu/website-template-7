@@ -1,11 +1,11 @@
-# 網站模板 7
+# Website Template 網站模板 7
 
 ***
 
-- 預覽: [Github.io](https://pardnchiu.github.io/website-template-7)
-- 源碼: [Github.com](https://github.com/pardnchiu/website-template-7)
+- 預覽: [Github.io](https://pardnchiu.github.io/website-template-7/)
+- 源碼: [Github.com](https://github.com/pardnchiu/website-template-7/)
 - 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-7/blob/main/LICENSE)
-- 開發: [Pardn Chiu](https://joball.tw/@pardnltd)
+- 開發: [Pardn Chiu 邱敬幃](https://joball.tw/@pardnltd)
 
 ***
 
@@ -17,8 +17,8 @@
 
 | index |
 |---|
-| ![T001](./image/index.jpg) |
+| ![index](./image/index.jpg) |
 
 ***
 
-Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+Copyright (c) 2023 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
